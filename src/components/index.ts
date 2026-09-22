@@ -1,0 +1,7 @@
+export { default as Navbar } from './Navbar'
+export { default as HeroSection } from './HeroSection'
+export { default as CategoryGrid } from './CategoryGrid'
+export { default as ResultsSection } from './ResultsSection'
+export { default as HealthTipsSection } from './HealthTipsSection'
+export { default as CallToAction } from './CallToAction'
+export { default as Footer } from './Footer'
